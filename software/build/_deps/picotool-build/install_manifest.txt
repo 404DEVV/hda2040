@@ -1,0 +1,7 @@
+/home/asus/github_projects/software/build/_deps/picotool/picotool
+/home/asus/github_projects/software/build/_deps/picotool/picotoolTargets.cmake
+/home/asus/github_projects/software/build/_deps/picotool/picotoolTargets-release.cmake
+/home/asus/github_projects/software/build/_deps/picotool/picotoolConfig.cmake
+/home/asus/github_projects/software/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/asus/github_projects/software/build/_deps/picotool/enc_bootloader.elf
+/home/asus/github_projects/software/build/_deps/picotool/enc_bootloader_mbedtls.elf

@@ -1,0 +1,7 @@
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/pioasm.dir
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/edit_cache.dir
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/list_install_components.dir
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/install.dir
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/install/local.dir
+/home/asus/github_projects/software/build/pioasm/CMakeFiles/install/strip.dir
