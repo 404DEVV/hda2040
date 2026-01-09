@@ -16,7 +16,7 @@ HDA2040 is a project aiming to allow an RP2040 to talk to audio codecs using the
 - basically speedran design while drinking 7up at 1am (no, not sponsored, 7up is amazing)
 - flawed
 - trash
-- works despite the 3 above points
+- barely works(flahs connections are trash, use external pico or dont use the pcb)
 - basically a test
 - STM32F103 as an in circuit debugger (Blackmagic Probe based)
 - RP2040 as main CPU
